@@ -1,0 +1,84 @@
+*{margin:0;padding:0;}
+body{
+	background-color:#1A1919;
+	
+	
+}
+h1{
+	font-weight:bold;
+	color:#45B39D;
+	padding-left:50px;
+	Font-family:arial;
+}
+h2{
+	font-weight:bold;
+	color:#45B39D;
+	padding-left:250px;
+	Font-family:arial;
+	float:left;
+}
+h3{
+	font-weight:bold;
+	color:#45B39D;
+	
+    margin-top:100px;
+	Font-family:arial;
+	font-size:50px;
+	
+}
+#logo img{
+	height:50px;
+	width:50px;
+	padding-left:100px;
+	margin-top:100px;
+	float:left;
+}
+#bottle img{
+	height:400px;
+	width:900px;
+	padding-left:500px;
+	margin-top:10px;
+	margin-bottom:50px;
+	
+}
+#about_us p{
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:50px;
+	color:#45B39D;
+}
+#Home a{
+	color:#EB984E;
+	border:2px solid #A9CCE3;
+	margin-left:650px;
+	font-size:30px;
+	text-decoration:none;
+	font-family:arial;
+	transition:0.5s ease;
+	border-radius: 25px;
+	padding-left:20px;
+	padding-right:20px;
+	
+}
+#Home a:hover{
+	color:#fff;
+	background-color:#463157;
+	
+}
+#follow-us img{
+	height:30px;
+	width:40px;
+	
+}
+#follow-us p{
+	color:#45B39D;
+	float:left;
+	margin-left:1300px;	
+}
+#footer p{
+	font-weight:Bold;
+	Font-family:times new roman;
+	color:#A9CCE3;
+	text-align:center;
+	
+}
